@@ -1,0 +1,12 @@
+com/tts/swaggerpractice/SwaggerPracticeApplication.java
+ com.tts.swaggerpractice.SwaggerPracticeApplication
+com/tts/swaggerpractice/model/itemV2.java
+ com.tts.swaggerpractice.model.itemV2
+com/tts/swaggerpractice/model/itemV1.java
+ com.tts.swaggerpractice.model.itemV1
+com/tts/swaggerpractice/controller/ItemControllerV2.java
+ com.tts.swaggerpractice.controller.ItemControllerV2
+com/tts/swaggerpractice/controller/ItemControllerV1.java
+ com.tts.swaggerpractice.controller.ItemControllerV1
+com/tts/swaggerpractice/config/SwaggerConfig.java
+ com.tts.swaggerpractice.config.SwaggerConfig
